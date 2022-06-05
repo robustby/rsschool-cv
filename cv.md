@@ -10,7 +10,7 @@ I'm Junior Developer.
 HTML, CSS, JavaScript
 
 ## Education
-Developer
+Developer. College
 
 ## English level
 B1
