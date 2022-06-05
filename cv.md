@@ -7,7 +7,7 @@ discord: robust#5312
 I'm Junior Developer.
 
 ## Skills
-HTML, CSS, JavaScript
+HTML, CSS, JavaScript, PHP
 
 ## Education
 Developer. College
